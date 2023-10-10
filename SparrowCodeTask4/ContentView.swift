@@ -180,7 +180,7 @@ private extension PrimitiveScaleButton {
                             Circle()
                                 .foregroundColor(.gray)
 //                                .frame(width: 0)
-                                .scaleEffect(isPressed  ? scaleAmount + 0.4 : 1.4)
+                                .scaleEffect(isPressed  ? scaleAmount : 1.8)
                                 .opacity(isPressed ? 0.3 : 0)
                             configuration.label
                                 .gesture(dragGesture)
