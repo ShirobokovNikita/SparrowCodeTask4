@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E067C29E2ADABC2B00984A26 /* SparrowVariant.swift in Sources */ = {isa = PBXBuildFile; fileRef = E067C29D2ADABC2B00984A26 /* SparrowVariant.swift */; };
 		E09222BC2AD465810030E324 /* SparrowCodeTask4App.swift in Sources */ = {isa = PBXBuildFile; fileRef = E09222BB2AD465810030E324 /* SparrowCodeTask4App.swift */; };
 		E09222BE2AD465810030E324 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E09222BD2AD465810030E324 /* ContentView.swift */; };
 		E09222C02AD465820030E324 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E09222BF2AD465820030E324 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E067C29D2ADABC2B00984A26 /* SparrowVariant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SparrowVariant.swift; sourceTree = "<group>"; };
 		E09222B82AD465810030E324 /* SparrowCodeTask4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SparrowCodeTask4.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E09222BB2AD465810030E324 /* SparrowCodeTask4App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SparrowCodeTask4App.swift; sourceTree = "<group>"; };
 		E09222BD2AD465810030E324 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 			children = (
 				E09222BB2AD465810030E324 /* SparrowCodeTask4App.swift */,
 				E09222BD2AD465810030E324 /* ContentView.swift */,
+				E067C29D2ADABC2B00984A26 /* SparrowVariant.swift */,
 				E0D250122AD56BD1003C1FC0 /* Test2.swift */,
 				E09222C92AD4852F0030E324 /* Test.swift */,
 				E09222BF2AD465820030E324 /* Assets.xcassets */,
@@ -147,6 +150,7 @@
 				E09222BE2AD465810030E324 /* ContentView.swift in Sources */,
 				E09222BC2AD465810030E324 /* SparrowCodeTask4App.swift in Sources */,
 				E09222CA2AD4852F0030E324 /* Test.swift in Sources */,
+				E067C29E2ADABC2B00984A26 /* SparrowVariant.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
